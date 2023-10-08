@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+float main() {
     int A, B;
 
     cout << "Digite o valor de A: ";
@@ -11,11 +11,11 @@ int main() {
     cout << "Digite o valor de B: ";
     cin >> B;
 
-    int soma = A + B;
-    int subtracao = A - B;
-    int multiplicacao = A * B;
-    int divisao = A / B;
-    int resto = A % B;
+    float soma = A + B;
+    float subtracao = A - B;
+    float multiplicacao = A * B;
+    float divisao = A / B;
+    float resto = A % B;
 
     cout << "Soma = " << soma << endl;
     cout << "Subtração = " << subtracao << endl;
