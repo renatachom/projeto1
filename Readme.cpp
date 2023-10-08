@@ -7,3 +7,6 @@ usuário 2 números inteiros, A e B, e mostre na tela a soma, subtração, multi
 divisão e resto da divisão desses números.
 
 ## Troca de todas as variáveis do tipo int para float
+
+## Programa 3 as entradas e saídas devem trabalhar com números do
+tipo float
