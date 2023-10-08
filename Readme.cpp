@@ -10,3 +10,32 @@ divisão e resto da divisão desses números.
 
 ## Programa 3 as entradas e saídas devem trabalhar com números do
 tipo float
+
+## Exercicio 7: Anote quais extensões existem instaladas atualmente na sua IDE:
+.Net Runtime 
+C/C++
+C/C++ Compile return
+C/C++ Extension Pack
+C/C++ Runner
+C/C++ Themes
+C#
+CMake
+CMake Tools
+CodeLLDB
+Color Highlight
+DotENV
+EditorConfia for VS Code
+Eslint
+GitLens - Git supercharged
+GraphQL
+IntelliCode
+Live Server
+Live Share
+pdf 
+print 
+Print Preview
+Rocketseat Reac Native
+Rocketseat ReactJS
+vscode-pdf 
+vccode-styled-components
+
