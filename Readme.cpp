@@ -39,3 +39,6 @@ Rocketseat ReactJS
 vscode-pdf 
 vccode-styled-components
 
+## Extensões que instalei :print e Print Preview, facilita para salvar o codigo em pdf.
+
+## Instalar tema Drácula, deixei as configurações padrão.
